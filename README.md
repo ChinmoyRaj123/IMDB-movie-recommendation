@@ -17,7 +17,7 @@ The idea of creating a movie recommendation struck me when i was watching a good
 ## Installation
 The code is written in Python 3.7 in Jupyter Notebook. If you dont have it you can first download Anaconda platform [here](https://docs.anaconda.com/anaconda/install/), where You will find the Jupyter Notebook within it. Jupyter Notebooks are powerful, versatile, shareable and provide the ability to perform data visualization in the same environment.It also allows data scientists to create and share their documents, from codes to full blown reports. They help data scientists streamline their work and enable more productivity and easy collaboration. Due to these and several other reasons you will see below, Jupyter Notebooks are one of the most popular tools among data scientists.
 
-After installing Anaconda, Run the Jupyter Notebook where you can use the code (IMDB movie recommendation.ipynb).
+After installing Anaconda, Run the Jupyter Notebook where you can use the code (`IMDB movie recommendation.ipynb`).
 
 ## Project Detail
 This project 
