@@ -7,6 +7,7 @@
   * [Motivation]
   * [Installation]
   * [Project Details]
+  * [Technologies used]
   
 ## Overview
 This a simple movie recommendation system trained by K Nearest Neighbors. This model is trained on 1000 movies rated by IMDb, which will use KNN algorithm to recommend five movies simillar to a movie that we like. The movies recommended will be within that 1000 movies but we can expand our choices by adding new data into that list of 1000 movies.
